@@ -1,12 +1,11 @@
 NLP
 ==============================
 A small repo for NLP
-==============================
 
 Datasets
 ==============================
 https://www.kaggle.com/uciml/sms-spam-collection-dataset
-==============================
+
 
 Project Organization
 ------------
